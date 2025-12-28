@@ -1,6 +1,9 @@
 # 💫 About Me:
-I am currently studying MCA in AI and ML from amity university, along with that i am sharpning my skills in the field of data analytics. apart from that i have built different projects in the same field and where i have used different tools and languages , like MYSQL, Python, PowerBi, Excel, etc.<br>Also from the time of my academics i have been into  the sports where i represented nashik multiple times on regionals level and also been part of extra curricular activities like Debate, quiz competitions and all
+🎓 I'm currently pursuing my MCA in Artificial Intelligence and Machine Learning at Amity University. Alongside my studies, I'm actively sharpening my skills in data analytics.
 
+💻 I've built several projects in this domain, working with tools and technologies like MySQL, Python, Power BI, and Excel to extract insights and solve real-world problems.
+
+⚽ Beyond academics, I'm passionate about sports—I’ve proudly represented Nashik multiple times at the regional level. I'm also an enthusiastic participant in extracurricular activities such as debates, quiz competitions, and more.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_sachin_khote_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sachin-khote-195570277/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/sachinkhote451) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/khote_sachin) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sachinkhote451@gmail.com) 
